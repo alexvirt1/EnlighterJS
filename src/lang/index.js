@@ -54,6 +54,7 @@ export {rust} from './rust';
 export {scala} from './scala';
 export {scss} from './scss';
 export {shell} from './shell';
+export {solidity} from './solidity';
 export {sql} from './sql';
 export {squirrel} from './squirrel';
 export {swift} from './swift';
